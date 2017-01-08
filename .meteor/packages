@@ -25,3 +25,5 @@ sacha:spin
 ian:accounts-ui-bootstrap-3
 npm-bcrypt@0.8.7
 accounts-password@1.2.12
+check
+audit-argument-checks
